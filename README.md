@@ -2,9 +2,9 @@
 
 **Enseignant** : Dr. Djibril Mboup.
 
-- **Nom** :
-- **Prenom**:
-- **Classe** : 
+- **Nom** : Cheikh
+- **Prenom**: Mohamed El Houssein
+- **Classe** :  ING3 INFO
 
 ## Informations Importantes :
 - Le travail que doit founir l'étudiant doit etre personel, tout tentative de plagiat sera sévérement sanctionné.
